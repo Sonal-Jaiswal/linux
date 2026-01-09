@@ -1,7 +1,7 @@
-Linux kernel
-============
+Sierra Linux kernel
+===================
 
-The Linux kernel is the core of any Linux operating system. It manages hardware,
+Sierra Linux is a customized Linux kernel. It manages hardware,
 system resources, and provides the fundamental services for all other software.
 
 Quick Start
